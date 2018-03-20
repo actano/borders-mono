@@ -1,0 +1,15 @@
+{
+  "name": "borders-mono",
+  "version": "1.0.0",
+  "description": "Playground for borders monorepo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/actano/borders.git"
+  },
+  "author": "Actano GmbH (https://rplan.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  }
+}
