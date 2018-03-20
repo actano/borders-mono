@@ -13,6 +13,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "lerna": "lerna"
+  },
   "devDependencies": {
     "lerna": "^2.9.0"
   }
