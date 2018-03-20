@@ -9,6 +9,7 @@
   },
   "author": "Actano GmbH (https://rplan.com/)",
   "license": "MIT",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
